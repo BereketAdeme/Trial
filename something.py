@@ -1,1 +1,1 @@
-print("I am super dope!" ) 
+print('No, I am not super dope. I am super cool ' )
